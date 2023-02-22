@@ -45,7 +45,7 @@ This is my first bash script for automation. This is not built for pro level sys
 - Kernel Tuning
 
 
-## Installation
+## Installation ====> CHECK wiki -> Installation
 
 The installation instructions have been moved to its own wiki page called 
 [Installation](../../wiki/Installation)
